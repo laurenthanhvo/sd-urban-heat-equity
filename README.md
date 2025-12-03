@@ -224,6 +224,6 @@ The app exposes:
 
 ## 7. Contact
 
-For questions about this project or collaboration on extreme heat and cooling-equity work in San Diego, please reach out to:
+For questions about this project, please reach out to:
 
-**Lauren Vo** — `ddjapri@ucsd.edu` (replace with your preferred contact)
+**Lauren Vo** — `lavo@ucsd.edu` 
