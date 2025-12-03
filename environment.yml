@@ -1,0 +1,41 @@
+name: heat
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - geopandas
+  - gdal
+  - fiona
+  - shapely
+  - pyproj
+  - rtree
+  - rasterio
+  - rioxarray
+  - xarray
+  - libspatialindex
+  - numpy
+  - pandas
+  - scikit-learn
+  - pyogrio
+  - requests
+  - tqdm
+  - orjson
+  - networkx
+  - contextily
+  - jupyterlab
+  - ipykernel
+  - geopy
+  - pip:
+      - rasterstats
+      - osmnx
+      - lightgbm
+      - folium
+      - keplergl
+      - streamlit
+      - streamlit-folium
+      - ortools
+      - pyrosm
+      - pystac-client
+      - stackstac
+      - planetary-computer

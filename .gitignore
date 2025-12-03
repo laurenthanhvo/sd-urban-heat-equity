@@ -1,0 +1,6 @@
+# big rasters – keep local only
+data/raw/SD_LST_Summer.tif
+data/raw/SD_NDVI_Summer.tif
+
+# optional: don’t track Streamlit cache
+cache/
